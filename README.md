@@ -1,5 +1,5 @@
 # MBAPPÉ Project
-[Click me!](https://github.com/isi-mube/iron-labs/blob/main/project-mbappe/project-mbapp%C3%A9.ipynb)
+[Click me!](https://github.com/isi-mube/data_mid_bootcamp_project_FIFA_MoneyBall/blob/master/notebook/project-mbapp%C3%A9.ipynb)
 
 ## About the Project
 The objective of this **project** is to identify young soccer players who posses the potential to become **the next Kylian Mbappé**. This project was completed in 5 days in collaboration with my fellow Ironhack classmates, [Nati](https://github.com/natnaelfe) & [Hugo](https://github.com/HugoIronhack).
@@ -20,5 +20,5 @@ MAE =  0.7269314203992508
 ![image](https://user-images.githubusercontent.com/90038586/224918673-b9409839-749a-41df-bb86-0a1b05306286.png)
 
 ## Other versions
-* isi-update: [Click me!](https://github.com/isi-mube/iron-labs/tree/main/project-mbappe)
+* Upgraded to further improve the model: [Click me!](https://github.com/isi-mube/iron-labs/tree/main/project-mbappe)
 * [Nati's](https://github.com/natnaelfe) fork: [Click me!](https://github.com/natnaelfe/data_mid_bootcamp_project_FIFA_MoneyBall)
