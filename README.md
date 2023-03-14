@@ -3,7 +3,7 @@
 2. [Presentation](https://docs.google.com/presentation/d/1Td9rJDfuB_epbsVk1nrdaiT-oH_MAjnKdBoWULncyT0/edit#slide=id.gc6f9e470d_0_126)
 
 ## About the Project
-The objective of this **project** is to identify young soccer players who posses the potential to become **the next Kylian Mbappé**. This project was completed in 5 days in collaboration with my fellow Ironhack classmates, [Nati](https://github.com/natnaelfe) & [Hugo](https://github.com/HugoIronhack).
+The objective of this **project** is to identify young soccer players who posses the potential to become **the next Kylian Mbappé**. This project was completed in 5 days in collaboration with my fellow Ironhack classmates, [Isi](https://github.com/isi-mube/) & [Hugo](https://github.com/HugoIronhack).
 
 ## About the Dataset
 After reading the [documentation](https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv) we decided to proceed with the following **strategy**:
@@ -21,5 +21,4 @@ After reading the [documentation](https://www.kaggle.com/datasets/ekrembayar/fif
 ![image](https://user-images.githubusercontent.com/90038586/224918673-b9409839-749a-41df-bb86-0a1b05306286.png)
 
 ## Other versions
-* [Nati's](https://github.com/natnaelfe) fork: [Click me!](https://github.com/natnaelfe/data_mid_bootcamp_project_FIFA_MoneyBall)
-* Upgraded to further improve the knwoledge: [Click me!](https://github.com/isi-mube/iron-labs/tree/main/project-mbappe)
+* [Isi's](https://github.com/natnaelfe) fork: [Click me!](https://github.com/isi-mube/iron-labs/tree/main/project-mbappe) 
